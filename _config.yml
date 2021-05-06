@@ -16,8 +16,8 @@ author: Prakriti Karki
 navbar-links:
   About Me: "Hi, I am a human struggling to democratize biology education in all parts of the world. Let me start my work from a small village of Nepal"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - #Beautiful Jekyll: "https://beautifuljekyll.com"
+    - #Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://www.linkedin.com/in/prakriti-karki-474641207/"
 
 # --- Logo --- #
